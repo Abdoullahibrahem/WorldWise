@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "7a47",
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-07-13T15:42:06.415Z",
+      "notes": "",
+      "position": {
+        "lat": "41.90507269196809",
+        "lng": "12.524414062500002"
+      }
+    },
+    {
+      "id": "5c5b",
+      "cityName": "Monaco",
+      "country": "Monaco",
+      "emoji": "🇲🇨",
+      "date": "2024-07-13T15:42:17.365Z",
+      "notes": "",
+      "position": {
+        "lat": "43.69293009637519",
+        "lng": "7.448730468750001"
+      }
+    },
+    {
+      "id": "7c71",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-13T15:42:36.805Z",
+      "notes": "",
+      "position": {
+        "lat": "40.43278668573345",
+        "lng": "-3.7353515625000004"
+      }
+    },
+    {
+      "id": "c502",
+      "cityName": "Ornezan",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-07-16T15:34:17.975Z",
+      "notes": "sdad",
+      "position": {
+        "lat": "43.51723818190403",
+        "lng": "0.6152343750000001"
+      }
+    }
+  ]
+}
